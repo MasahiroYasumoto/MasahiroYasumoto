@@ -1,9 +1,9 @@
 
 ### Talks
 
-- AWS Edtech Meetup 教育×AI ～生成系AIによって教育はどう変わるのか～ [[url](https://aws-startup-lofts.com/apj/loft/tokyo/event/4287cfe9-6832-43e1-bb18-0ff5ea4794c1)]
+- AWS Edtech Meetup 教育×AI ～生成系AIによって教育はどう変わるのか～ June 2023 [[URL](https://aws-startup-lofts.com/apj/loft/tokyo/event/4287cfe9-6832-43e1-bb18-0ff5ea4794c1)]
 - Introduction to Python AST (ASTに入門する), pycon jp 2022 [[slides](https://speakerdeck.com/atamaplus/pycon-jp-2022-ast)][[video](https://www.youtube.com/watch?v=E0LRci4jQ3E)]
-- 強化学習の実適用に向けた課題と工夫, 強化学習アーキテクチャ勉強会 [[slides](https://www.slideshare.net/MasahiroYasumoto/ss-226878641)]
+- 強化学習の実適用に向けた課題と工夫, 第50回 強化学習アーキテクチャ勉強会 2020  [[URL](https://rlarch.connpass.com/event/165040/)][[slides](https://www.slideshare.net/MasahiroYasumoto/ss-226878641)]
 
 ### Papers
 
